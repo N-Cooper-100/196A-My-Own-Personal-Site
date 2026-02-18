@@ -17,7 +17,7 @@ The topic of the website is one of my hobbies: modding The Elder Scrolls V: Skyr
 
 - HTML5
 
-This project does not use CSS or JavaScript yet, as the focus of the assignment is on HTML structure and semantics.
+This project does not use CSS or JavaScript yet, as the focus of the assignment is on HTML structure and semantics. (I will be updating this as I use CSS and others)
 
 ## Purpose
 
